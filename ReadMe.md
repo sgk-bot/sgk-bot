@@ -4,7 +4,7 @@
 # Telegram # 开房记录 # 聊天记录 # 个人轨迹 # 名下房产 # 快递信息 # 微信反查
 
 以下机器人可同时交叉使用，以获得更多检索次数
-
+ 
 ## No. 1: AISGK
 数据量大且优质，输出结果信息较为全面，
 
@@ -39,6 +39,11 @@
 
 # 猪八戒查档 
 [@Zonesgk_bottbot](https://t.me/Zonesgk_bottbot?start=NTgzNzg1NTEy)
+
+# 魔女官方 
+[@pm9588_zy7777bot](https://t.me/pm9588_zy7777bot?start=NTgzNzg1NTEy)
+
+<img src="pic/bbb.png" alt="免费社工库" border="0">
 
 ## 项目注意事项
 业余时间测试与整理，根据繁忙程度及个人精力，可能不定期更新、可能停止更新，亦可能隐藏、注销该库。
